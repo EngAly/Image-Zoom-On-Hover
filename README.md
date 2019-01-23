@@ -1,4 +1,4 @@
-# Zoom-Hover-Effect-On-Image
+# Image-Zoom-On-Hover
 
-### Zoom Hover Effect On Image | HTML & CSS
+### Image Zoom On Hover | HTML & CSS
 [YouTube Video](https://youtu.be/3DeYYJxO07c)
